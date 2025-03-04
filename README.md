@@ -1,6 +1,6 @@
 # Python-Fundamental
 
-I created this notebook initially to teach my cousins how to write basic computer program.
+I created this notebook to teach my cousins how to write computer program.
 
 Link for Google Collab: https://colab.research.google.com/drive/1Oyd6VWhS7oE9JnxPghsv-TF0Erh4Urec?usp=sharing#scrollTo=WmjwVzlENUxc
 
